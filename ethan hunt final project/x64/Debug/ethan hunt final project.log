@@ -1,0 +1,8 @@
+﻿  Ethan hunt.cpp
+D:\ethen hunt final project 24F-0605\ethan hunt final project\Ethan hunt.cpp(161,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ethen hunt final project 24F-0605\ethan hunt final project\Ethan hunt.cpp(197,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ethen hunt final project 24F-0605\ethan hunt final project\Ethan hunt.cpp(376,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ethen hunt final project 24F-0605\ethan hunt final project\Ethan hunt.cpp(390,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ethen hunt final project 24F-0605\ethan hunt final project\Ethan hunt.cpp(456,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ethen hunt final project 24F-0605\ethan hunt final project\Ethan hunt.cpp(759,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ethan hunt final project.vcxproj -> D:\ethen hunt final project 24F-0605\x64\Debug\ethan hunt final project.exe
